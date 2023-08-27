@@ -88,4 +88,4 @@ table.addEventListener('click', function (event) {
 
 renderTable()
 
-// Developed By SeyedMohammadMahdi Kiaei
+// Developed By Mohammad Kiaei
